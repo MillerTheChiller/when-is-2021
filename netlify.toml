@@ -1,4 +1,2 @@
 [build]
     command = "npm run build"
-    public = "./client/build"
-    base = "./client"
