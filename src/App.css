@@ -27,4 +27,8 @@ h1 {
   .timerRow {
     font-size: 3em;
   }
+  .app {
+    min-height: 100vh;
+    max-height: 100vh;
+  }
 }
